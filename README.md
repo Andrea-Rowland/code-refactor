@@ -20,5 +20,5 @@ Accessible alt attributes were added to the important images on the page to impr
 
 ##URL Link
 
-![web-screenshot](./assets/images/web-screenshot.jpg)
+![web-screenshot](/assets/images/web-screenshot.jpg)
 
