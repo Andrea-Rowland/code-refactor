@@ -7,7 +7,7 @@ The marketing agency, Horiseon, wanted their website to follow accessibility sta
 ##Built With
 <ul style=“list-style-type:square”>
     <li>HTML</li>
-    <li>CSS</li>
+    <li>CSS</li> <br/>
 
 ##Process
 The first thing I did to improve SEO was to give a title to their website.This ensures that the user can view what website they are on just by looking at the tab on their window. 
@@ -20,5 +20,5 @@ Accessible alt attributes were added to the important images on the page to impr
 
 ##URL Link
 
-!web-screenshot](./assets/images/web-screenshot.jpg)
+![web-screenshot](./assets/images/web-screenshot.jpg)
 
