@@ -62,23 +62,26 @@ p {
     background-position: center;
 }
 
+/* moving elements to left side of webpage*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* moving elements to right side of webpage*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*element is inline with a reduce width*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Deleted height because it wasn't needed */
+/* element is placed on right with blue font and blue background*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
